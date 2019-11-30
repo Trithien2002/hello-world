@@ -1,6 +1,9 @@
 # hello-world
 First Github Learing
 
-Hi I am Trit786hien.
+Hi I am Trithien.
 
 I am learning Git the first time.
+
+My second update.
+
